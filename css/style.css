@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    text-align: center;
+    background-color: #fff;
+    width: 100%;
+    height: auto;
+  }
+  .logo {
+    width: 50px;
+    display: inline-block;
+  }
+  .heading-logo {
+    font-weight: 800;
+    font-size: 24px
+  }
+  
+  .content {
+    width: 100%;
+    text-align: center;
+    position: relative;
+  }
+  
+  .image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .article {
+    text-align: center;
+    width: 100%;
+  }
+  .heading {
+    font-size: 20px;
+    font-weight: 800;
+  }
+  
+  .footer {
+    font-size: 15px;
+    text-align: center;
+    background-color: #007FFF;
+    color: #ffffff;
+  }
